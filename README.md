@@ -11,7 +11,7 @@ The game is coded using raylib library. Raylib is an open source library. The li
 
 Oyunun amacı gelen engellerin üzerinden atlayarak ilerlemek ve kazanabildiğiniz en yüksek puanı kazanmak. Engellerin üzerinden atlamak için space barı kullanınız.
 
-The aim of the game is to advance by jumping over the incoming obstacles and earn the highest score you can. Use the space bar to jump over the obstacles.
+The aim of the game is to advance by jumping over the incoming nebula(obstacles) and earn the highest score you can. Use the space bar to jump over the nebula.
 
 ![2](https://user-images.githubusercontent.com/76453513/217070142-b5a8cd4a-03e2-4f27-82f7-335249d1c584.png)
 
