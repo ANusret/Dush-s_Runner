@@ -18,7 +18,7 @@ int main()
     const int windowHeight{500};
 
     // initialize window
-    InitWindow(windowWidth, windowHeight, "Dush's Runner");
+    InitWindow(windowWidth, windowHeight, "Line's Runner");
 
     const int gravity{1'200};
 
